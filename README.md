@@ -1,7 +1,7 @@
 # zhongqu-protocol
 
-**一份人与AI之间的共识协议**
-*A Consensus Protocol Between Humans and AI*
+**这是一个人在探索人与AI协作过程中留下的记录。**
+*A personal record of exploring collaboration between humans and AI.*
 
 ---
 
@@ -84,7 +84,7 @@ AI的角色：可以观察，可以提议，不能擅自修改。
 | 文件 File | 说明 Description |
 |----------|-----------------|
 |  | 协议主文件（清洗版）Protocol main file (public version) |
-|  | CC BY 4.0 |
+|  | CC BY-ND 4.0 |
 
 ---
 
@@ -103,7 +103,7 @@ AI的角色：可以观察，可以提议，不能擅自修改。
 
 ## 许可证 · License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Copyright (c) 2026 aote6
+[CC BY-ND 4.0](https://creativecommons.org/licenses/by/4.0/) · Copyright (c) 2026 aote6
 
 你可以自由使用、修改、传播，但请保留来源。
 
