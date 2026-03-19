@@ -105,6 +105,6 @@ AI的角色：可以观察，可以提议，不能擅自修改。
 
 [CC BY-ND 4.0](https://creativecommons.org/licenses/by/4.0/) · Copyright (c) 2026 aote6
 
-你可以自由使用、修改、传播，但请保留来源。
+你可以自由传播，但不得修改后再发布，请保留来源。
 
-*Free to use, adapt, and share — with attribution.*
+*Share freely, no derivatives, with attribution.*
